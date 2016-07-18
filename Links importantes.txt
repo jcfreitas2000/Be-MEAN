@@ -1,0 +1,2 @@
+Aprender git pela documentação do git bash: https://git-scm.com/book/pt-br/v1/Primeiros-passos
+Instalar mongo hacker no windows: https://weslley17w.github.io/mongo-hacker-no-windows/
