@@ -1,0 +1,7 @@
+[
+	{name: "Pikachu", description: "Rato elétrico", attack: 55, defense: 50, height: 0.5},
+	{name: "Bulbasaur", description: "Sapo da grama", attack: 55, defense: 50, height: 0.5},
+	{name: "Squirtle", description: "Tartaruga", attack: 55, defense: 50, height: 0.5},
+	{name: "Raichu", description: "Ratinho", attack: 55, defense: 50, height: 0.5},
+	{name: "Charmander", description: "Dinossauro de fogo", attack: 55, defense: 50, height: 0.5}
+]
